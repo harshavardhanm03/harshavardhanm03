@@ -8,7 +8,7 @@
 
 * 💬 Reach out to me for consulting and volunteering
 
-🛠  Tech Stack
+🛠  **Tech Stack**
 
 
 JavaScript  TypeScript  NodeJS  Express.js  React Router
