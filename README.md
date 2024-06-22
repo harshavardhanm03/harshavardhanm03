@@ -10,7 +10,7 @@
 
 🛠  **Tech Stack**
 
-MySQL ![MySQL](https://img.icons8.com/fluent/20/000000/mysql-logo.png)
+ ![MySQL](https://img.icons8.com/fluent/20/000000/mysql-logo.png)
 
 
 Linux  Tor  Spotify 
