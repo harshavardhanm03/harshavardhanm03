@@ -2,11 +2,11 @@
 
 **About me**
 
-💼 Backend Enginneer
+* 💼 Backend Enginneer
 
-❤️ Love to automate everything
+* ❤️ Love to automate everything
 
-💬 Reach out to me for consulting and volunteering
+* 💬 Reach out to me for consulting and volunteering
 
 🛠  Tech Stack
 
