@@ -1,4 +1,4 @@
-#:wave: ***hello,I am Harsha Reddy***</span>
+# :wave: Hello,I am Harsha Reddy
 
 # Heading1 test
 
