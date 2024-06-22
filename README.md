@@ -16,7 +16,7 @@
 
 
 ![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshavardhanm03&theme=tokyonight&show_icons=true)
-(https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanm03)](https://github.com/harshavardhanm03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanm03&theme=tokyonight&show_icons=true)](https://github.com/harshavardhanm03/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshavardhanm03&theme=vue-dark&background=063750)](https://git.io/streak-stats)
 
