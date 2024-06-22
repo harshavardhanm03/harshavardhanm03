@@ -1,14 +1,11 @@
 <h1 style="text-align: center;">:wave: Hello,I am Harsha Reddy</h1>
 
-About me
+**About me**
 
-💼 FrontEnd Engineer at Razorpay
+💼 Backend Enginneer
+❤️ Love to automate everything 
+💬 Reach out to me for consulting and volunteering
 
-📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
-
-❤️ I love writing TypeScript, and building fun experiments on type-level
-
-💬 Ask me about anything here
 
 
 
