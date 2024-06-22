@@ -1,4 +1,5 @@
-$${\color{green}Hello, I am Harsha}$$
+<font size="6"> $${\color{green}Hello, I am    Harsha}$$</font>
+
 
 <!--
 **harshavardhanm03/harshavardhanm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
