@@ -19,5 +19,5 @@
 
 🤝🏻  Connect with Me
 
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:harshavardhanm03@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:harshavardhanm03@gmail.com)
    
