@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">:wave: Hello,I am Harsha Reddy</h1>
-<span style="color: blue; font-size: 24px;">ex Infosys</span>
+<span style="color: blue; font-size: 24px;">Develop and merge</span>
 
 
 
