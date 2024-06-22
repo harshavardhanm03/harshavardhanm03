@@ -18,7 +18,5 @@
 [![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshavardhanm03)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanm03)](https://github.com/harshavardhanm03/github-readme-stats)
 
 🤝🏻  Connect with Me
-<a href="mailto:harshavardhanm03@example.com">
-  <i class="fab fa-google fa-2x"></i>
-</a>
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:harshavardhanm03@gmail.com)
    
