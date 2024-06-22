@@ -19,5 +19,5 @@
 
 🤝🏻  Connect with Me
 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshavardhanm03@gmail.com) ![Linkedin_Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)(https://www.linkedin.com/in/harshamosali/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshavardhanm03@gmail.com) [![Linkedin_Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/harshamosali/)
    
