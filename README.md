@@ -6,6 +6,25 @@
 ❤️ Love to automate everything 
 💬 Reach out to me for consulting and volunteering
 
+🛠  Tech Stack
+
+
+JavaScript  TypeScript  NodeJS  Express.js  React Router
+
+HTML5  CSS3  SASS  Markdown  WordPress
+
+MariaDB  MySQL  PHP  Python  C++
+
+More Skills
+Adobe After Effects  Adobe Illustrator  Adobe Lightroom  Adobe Premiere Pro
+
+Figma  Notion  Next Cloud
+
+Visual Studio Code  Docker  Git  GitHub
+
+Cloudflare  Nginx  DigitalOcean
+
+Linux  Tor  Spotify 
 
 
 
