@@ -1,4 +1,4 @@
-**$${\color{green}Green}$$ Hi ,I am Harsha **
+$${\color{green}Hello, I am Harsha}$$
 
 <!--
 **harshavardhanm03/harshavardhanm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
