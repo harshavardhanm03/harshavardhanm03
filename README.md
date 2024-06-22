@@ -1,5 +1,6 @@
+<p style="text-align: center;">Text_content</p>
 
-                            # :wave: Hello,I am Harsha Reddy
+# :wave: Hello,I am Harsha Reddy
 
 # Heading1 test
 
