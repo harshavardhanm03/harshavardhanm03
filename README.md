@@ -1,6 +1,5 @@
-<center>:wave: Hello,I am Harsha Reddy</center>
 
-# :wave: Hello,I am Harsha Reddy
+                            # :wave: Hello,I am Harsha Reddy
 
 # Heading1 test
 
