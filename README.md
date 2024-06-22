@@ -1,4 +1,4 @@
-<span style="color: Yellow; font-size: 24px;">:wave: ***hello,I am Harsha Reddy***</span>
+#:wave: ***hello,I am Harsha Reddy***</span>
 
 # Heading1 test
 
