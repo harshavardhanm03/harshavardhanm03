@@ -5,42 +5,54 @@
 * 💼 Backend Enginneer
 
 * ❤️ Love to automate everything
+  
+*  
 
 * 💬 Reach out to me for consulting and volunteering
 
-🛠  **Tech Stack**
-
 ### Programming Languages & Frameworks
-- JavaScript ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png)
-- TypeScript ![TypeScript](https://img.icons8.com/color/20/000000/typescript.png)
-- NodeJS ![NodeJS](https://img.icons8.com/color/20/000000/nodejs.png)
-- Express.js ![Express.js](https://img.icons8.com/ios-filled/20/000000/express-js.png)
-- React Router ![React Router](https://img.icons8.com/color/20/000000/react-native.png)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ### Web Technologies
-- HTML5 ![HTML5](https://img.icons8.com/color/20/000000/html-5.png)
-- CSS3 ![CSS3](https://img.icons8.com/color/20/000000/css3.png)
-- SASS ![SASS](https://img.icons8.com/color/20/000000/sass.png)
-- Markdown
-- WordPress ![WordPress](https://img.icons8.com/color/20/000000/wordpress.png)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Databases
-- MariaDB ![MariaDB](https://img.icons8.com/fluent/20/000000/maria-db.png)
-- MySQL ![MySQL](https://img.icons8.com/fluent/20/000000/mysql-logo.png)
-- PHP ![PHP](https://img.icons8.com/dusk/20/000000/php-logo.png)
-- Python ![Python](https://img.icons8.com/color/20/000000/python.png)
-- C++ ![C++](https://img.icons8.com/color/20/000000/c-plus-plus-logo.png)
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### More Skills
-- Adobe After Effects ![After Effects](https://img.icons8.com/color/20/000000/adobe-after-effects.png)
-- Adobe Illustrator ![Illustrator](https://img.icons8.com/color/20/000000/adobe-illustrator.png)
-- Adobe Lightroom ![Lightroom](https://img.icons8.com/color/20/000000/adobe-lightroom.png)
-- Adobe Premiere Pro ![Premiere Pro](https://img.icons8.com/color/20/000000/adobe-premiere-pro.png)
-- Figma ![Figma](https://img.icons8.com/color/20/000000/figma.png)
-- Notion ![Notion](https://img.icons8.com/ios-filled/20/000000/notion.png)
-- Next Cloud ![Next Cloud](https://img.icons8.com/ios/20/000000/nextcloud.png)
+- ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+- ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+- ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+- ![Next Cloud](https://img.shields.io/badge/Next_Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
-Linux  Tor  Spotify 
+### Tools & Platforms
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor&logoColor=white)
+- ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+Linux
 
 
 
