@@ -1,4 +1,4 @@
-<font size="6"> $${\color{green}Hello, I am    Harsha}$$</font>
+<font size="12"> $${\color{green}Hello, I am    Harsha}$$</font>
 
 
 <!--
