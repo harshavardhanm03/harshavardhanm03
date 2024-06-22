@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"># :wave: Hello,I am Harsha Reddy</h1>
+<h1 style="text-align: center;">:wave: Hello,I am Harsha Reddy</h1>
 
 
 # Heading1 test
