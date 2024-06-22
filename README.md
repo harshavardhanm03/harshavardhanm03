@@ -1,4 +1,4 @@
-<font size="23"> $${\color{green}Hello, I am    Harsha}$$</font>
+<span style="color: blue; font-size: 24px;">hi I am Harsha</span>  
 
 
 <!--
