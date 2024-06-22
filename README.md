@@ -27,6 +27,8 @@
 [![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshavardhanm03)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanm03)](https://github.com/harshavardhanm03/github-readme-stats)
 
 🤝🏻  Connect with Me
+![GitHub stars](https://img.shields.io/github/stars/username?style=social)
+
 
 [!harshavardhanm03@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [!linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
    
